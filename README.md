@@ -5,7 +5,7 @@
 This allows me to start a new project with mocha and chai ready to go. I plan on adding more to this as needs arise, but for now I don't have any other things needed.
 
 Use:
-'''batch
+'''bat
 start_project.bat (name of your project) (GitHub username)
 
 ### To Do
