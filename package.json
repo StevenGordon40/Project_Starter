@@ -1,0 +1,26 @@
+{
+  "name": "project_starter",
+  "version": "1.0.0",
+  "description": "- [x] Create README.md\r - [x] Initialize Git Repo for this project\r - [ ] Create test files\r - [ ] Create the file that runs everything\r   - [ ] This should be a command line prompt\r   - [ ] Include test framework\r     - [ ] npm install -D mocha chai\r   - [ ] npm init\r   - [ ] git init\r   - [ ] initial default file (index.html)",
+  "main": "main_test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenGordon40/Project_Starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenGordon40/Project_Starter/issues"
+  },
+  "homepage": "https://github.com/StevenGordon40/Project_Starter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
