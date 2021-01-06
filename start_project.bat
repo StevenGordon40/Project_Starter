@@ -14,6 +14,11 @@ set /p title=Name your project:
 mkdir %title%
 cd %title%
 set /p GITUSERNAME=What is your Git Hub Username:
+GOTO README
+
+:README
+set file=README.md
+>%file%  echo # %title%
 GOTO NPMINIT
 
 :NPMINIT

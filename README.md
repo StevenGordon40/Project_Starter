@@ -21,8 +21,10 @@ or do not input anything after the filename and follow the prompts.
 
 - [x] Create README.md
 - [x] Initialize Git Repo for this project
+
 - [x] Create the file that runs everything
   - [x] This should be a command line prompt
+  - [ ] add a README.md file
   - [x] git init
     - [x] create a .gitignore file
   - [x] Include test framework
