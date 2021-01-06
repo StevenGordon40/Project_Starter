@@ -3,7 +3,6 @@
 IF "%1" == "" GOTO NOINPUT ELSE GOTO INPUT
 
 :INPUT
-cd C:\Users\Steve\OneDrive\Desktop\project_starter_testing
 set title=%1
 set GITUSERNAME=%2
 mkdir %title%
@@ -11,7 +10,6 @@ cd %title%
 GOTO NPMINIT
 
 :NOINPUT
-cd C:\Users\Steve\OneDrive\Desktop\project_starter_testing
 set /p title=Name your project: 
 mkdir %title%
 cd %title%

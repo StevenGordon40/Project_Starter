@@ -9,7 +9,15 @@ Use:
 <!-- prettier-ignore -->
 From command line enter
 
-    start_project.bat (name of your project) (GitHub username)
+'''bat
+start_project.bat (name of your project) (GitHub username)
+
+or do not input anything after the filename and follow the prompts.
+
+'''bat
+start_project.bat
+
+![No Input Given](no_input.PNG)
 
 ### To Do
 
