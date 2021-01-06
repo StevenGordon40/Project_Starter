@@ -5,8 +5,11 @@
 This allows me to start a new project with mocha and chai ready to go. I plan on adding more to this as needs arise, but for now I don't have any other things needed.
 
 Use:
-'''bat
-start_project.bat (name of your project) (GitHub username)
+
+<!-- prettier-ignore -->
+From command line enter
+
+    start_project.bat (name of your project) (GitHub username)
 
 ### To Do
 
